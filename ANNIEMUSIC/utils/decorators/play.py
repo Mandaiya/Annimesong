@@ -127,7 +127,7 @@ def PlayWrapper(command):
                     return await message.reply_text(
                         _["call_2"].format(
                             app.mention, userbot.id, userbot.name, userbot.username
-                        ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text= "๏ 𝗨ɴʙᴀɴ 𝗔ssɪsᴛᴀɴᴛ ๏", callback_data=f"unban_assistant")]])
+                        ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text= "༆ 𝕌𝐧𝐛𝐚𝐧 𝔸𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 ༆", callback_data=f"unban_assistant")]])
                     )
             except UserNotParticipant:
                 if chat_id in links:
