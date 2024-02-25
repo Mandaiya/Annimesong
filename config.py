@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
 OWNER_USERNAME = getenv("OWNER_USERNAME","Rudra0_9_1")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "angle_Lotous1_bot)
+BOT_USERNAME = getenv("BOT_USERNAME" , "angle_Lotous1_bot")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "𝐀𝐍𝐍𝐈𝐄 𝐗 𝐌𝐔𝐒𝐈𝐂")
 #get Your Assistant User name
